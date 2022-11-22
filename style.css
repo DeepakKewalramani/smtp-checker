@@ -73,13 +73,11 @@ form {
 }
 
 .footer {
-    position: fixed;
-    bottom: 0;
     min-height: 70px;
     width: 100%;
     color: black;
     font-size: 21px;
-    background-color: #04091E;
+    /* background-color: #04091E; */
 }
 
 .footer p {
