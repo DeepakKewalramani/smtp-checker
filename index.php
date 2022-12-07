@@ -147,7 +147,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-7">
-                    <p>&copy;<?php echo date('Y'); ?>, Deepak Kewalramani, All Rights Reserved</p>
+                    <p class="text-uppercase" style="font-size:16px;">&copy;<?php echo date('Y'); ?>, Deepak Kewalramani, All Rights Reserved</p>
+                </div>
+                 <div class="col-md-5 d-flex justify-content-md-end">
+                    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Dkewalramani" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
                 </div>
             </div>
         </div>
